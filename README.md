@@ -1,4 +1,4 @@
-# imageClassificationUsingNeuralNetwork
+# Classification of animals
 Image classification using MLP (without libraries such as Scikit-learn, TensorFlow, or Keras)
 
 ### Dataset
